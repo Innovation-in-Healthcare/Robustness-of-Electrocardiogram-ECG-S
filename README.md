@@ -20,8 +20,8 @@
 ---
 ## Step-3: Read the file from step-1 data folder according to the Step-2 data folder and subject name
 ---
-# If you find it is useful and used for publication. Please kindly cite our work as:
-## Citation
+## If you find it is useful and used for publication. Please kindly cite our work as:
+
 ```latex
  @ARTICLE{paper,
   author={Saifur Rahman, Chandan Karmakar, Iynkaran
