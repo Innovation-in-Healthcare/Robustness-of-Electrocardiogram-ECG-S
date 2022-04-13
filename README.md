@@ -33,9 +33,7 @@ keywords = {SQA,cardiovascular diseases,electrocardiogram,signal quality indices
 mendeley-groups = {sensor},
 month = {apr},
 number = {189},
-publisher = {
-The Royal Society
-},
+publisher = {The Royal Society},
 title = {{Robustness of electrocardiogram signal quality indices}},
 url = {https://royalsocietypublishing.org/doi/full/10.1098/rsif.2022.0012},
 volume = {19},
