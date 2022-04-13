@@ -23,20 +23,16 @@
 ## If you find it is useful and used for publication. Please kindly cite our work as:
 
 ```latex
-@article{Rahman2022,
-abstract = {Electrocardiogram (ECG) signal quality indices (SQIs) are essential for improving diagnostic accuracy and reliability of ECG analysis systems. In various practical applications, the ECG signals are...},
-author = {Rahman, Saifur and Karmakar, Chandan and Natgunanathan, Iynkaran and Yearwood, John and Palaniswami, Marimuthu},
-doi = {10.1098/RSIF.2022.0012},
-issn = {1742-5662},
-journal = {Journal of the Royal Society Interface},
-keywords = {SQA,cardiovascular diseases,electrocardiogram,signal quality indices,statistical signal quality indices,threshold‌},
-mendeley-groups = {sensor},
-month = {apr},
-number = {189},
-publisher = {The Royal Society},
-title = {{Robustness of electrocardiogram signal quality indices}},
-url = {https://royalsocietypublishing.org/doi/full/10.1098/rsif.2022.0012},
+@article{doi:10.1098/rsif.2022.0012,
+author = {Rahman, Saifur  and Karmakar, Chandan  and Natgunanathan, Iynkaran  and Yearwood, John  and Palaniswami, Marimuthu },
+title = {Robustness of electrocardiogram signal quality indices},
+journal = {Journal of The Royal Society Interface},
 volume = {19},
-year = {2022}
+number = {189},
+pages = {20220012},
+year = {2022},
+doi = {10.1098/rsif.2022.0012},
+URL = {https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2022.0012},
 }
+
 ```
