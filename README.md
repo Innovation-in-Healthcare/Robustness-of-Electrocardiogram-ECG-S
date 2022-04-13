@@ -27,7 +27,6 @@
 abstract = {Electrocardiogram (ECG) signal quality indices (SQIs) are essential for improving diagnostic accuracy and reliability of ECG analysis systems. In various practical applications, the ECG signals are...},
 author = {Rahman, Saifur and Karmakar, Chandan and Natgunanathan, Iynkaran and Yearwood, John and Palaniswami, Marimuthu},
 doi = {10.1098/RSIF.2022.0012},
-file = {:C$\backslash$:/Users/msrahman/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Rahman et al. - 2022 - Robustness of electrocardiogram signal quality indices.pdf:pdf},
 issn = {1742-5662},
 journal = {Journal of the Royal Society Interface},
 keywords = {SQA,cardiovascular diseases,electrocardiogram,signal quality indices,statistical signal quality indices,threshold‌},
