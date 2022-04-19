@@ -37,8 +37,8 @@
 ```
 ### Plain version
 ```latex
-Rahman S, Karmakar C, Natgunanathan I, Yearwood J, Palaniswami M.
-Robustness of electrocardiogram signal quality indices. 
-Journal of the Royal Society Interface. 2022 Apr;19(189):20220012.
+S. Rahman, C. Karmakar, I. Natgunanathan, J. Yearwood and M. Palaniswami, 
+"Robustness of electrocardiogram signal quality indices", Journal of The Royal Society Interface,
+vol. 19, no. 189, 2022. Available: 10.1098/rsif.2022.0012.
 
 ```
