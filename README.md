@@ -23,16 +23,15 @@
 ## If you find it is useful and used for publication. Please kindly cite our work as:
 
 ```latex
-@article{doi:10.1098/rsif.2022.0012,
-author = {Rahman, Saifur  and Karmakar, Chandan  and Natgunanathan, Iynkaran  and Yearwood, John  and Palaniswami, Marimuthu },
-title = {Robustness of electrocardiogram signal quality indices},
-journal = {Journal of The Royal Society Interface},
-volume = {19},
-number = {189},
-pages = {20220012},
-year = {2022},
-doi = {10.1098/rsif.2022.0012},
-URL = {https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2022.0012},
+@article{rahman2022robustness,
+  title={Robustness of electrocardiogram signal quality indices},
+  author={Rahman, Saifur and Karmakar, Chandan and Natgunanathan, Iynkaran and Yearwood, John and Palaniswami, Marimuthu},
+  journal={Journal of the Royal Society Interface},
+  volume={19},
+  number={189},
+  pages={20220012},
+  year={2022},
+  publisher={The Royal Society}
 }
 
 ```
