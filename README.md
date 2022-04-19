@@ -36,4 +36,7 @@
 
 ```
 ### Plain version
+```latex
 Rahman S, Karmakar C, Natgunanathan I, Yearwood J, Palaniswami M. Robustness of electrocardiogram signal quality indices. Journal of the Royal Society Interface. 2022 Apr;19(189):20220012.
+
+```
