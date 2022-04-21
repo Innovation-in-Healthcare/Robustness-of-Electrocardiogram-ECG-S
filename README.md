@@ -16,7 +16,7 @@
     -    ![Screenshot](mat_workplace.JPG)
 - There are one array:
     - label_of_data,[ binary array with zeros and ones]
-    - Zero means noise-free ECG and ones means noisy ECG data
+    - ones means noise-free ECG and zeros means noisy ECG data
 ---
 ## Step-3: Read the file from step-1 data folder according to the Step-2 data folder and subject name
 ---
