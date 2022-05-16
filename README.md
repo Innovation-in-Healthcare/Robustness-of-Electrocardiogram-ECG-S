@@ -20,8 +20,8 @@
 ---
 ## Step-3: Read the file from step-1 data folder according to the Step-2 data folder and subject name
 ---
-## If you find it is useful and used for publication. Please kindly cite our work as:
-### Bibtex version
+### If you find it is useful and used for publication. Please kindly cite our work as:
+#### Bibtex version
 ```latex
 @article{rahman2022robustness,
   title={Robustness of electrocardiogram signal quality indices},
@@ -35,7 +35,7 @@
 }
 
 ```
-### Plain version
+#### Plain version
 ```latex
 S. Rahman, C. Karmakar, I. Natgunanathan, J. Yearwood and M. Palaniswami, 
 "Robustness of electrocardiogram signal quality indices", Journal of The Royal Society Interface,
